@@ -22,7 +22,7 @@ Now it is the last first-book thing: The Hogwarts Express
 
 One of the Diagon Alley stations is King's Cross, where you can pass through Platform 9 3/4 and jump onto a compartment in the Hogwarts Express. The train will take you 600 meters to the Hogwarts ride. Even if you don;t want to go on the Hogwarts Hopes ride, you will need to take the Hogwarts Express, because the whole other side of the theme park is there!
 
-<img src="./images/Hogwarts Hopes.jpeg" width="500px"></img>
+<img src="./images/Hogwarts Express.jpg" width="500px"></img>
 
 
 
