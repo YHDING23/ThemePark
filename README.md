@@ -24,10 +24,15 @@ One of the Diagon Alley stations is King's Cross, where you can pass through Pla
 
 Now, before we move ontot Book 2's attractions, we have already got the shopping place Diagon Alley, Hogwarts Hopes ride and the Hogwarts Express ride that connects the 2 things. I hope you think that they are Okay attractions.
 
-So, the first 2nd-book attraction is about the weasleys and Mr. Weasley's blue car. That is Right! The flying Ford Angelia. It's been turned into a roller coaster called The Flight of the Ford Angelia. 
+
+## Flying Ford Angelia
+
+So, the first 2nd-book attraction is about the weasleys and Mr. Weasley's blue car. That is Right! The Flying Ford Angelia. It's been turned into a roller coaster called The Flight of the Ford Angelia. 
 
 It has a steep camel hump, no loop, and 2 minor bumps. To ride, you'll sit on a driving seat in an enclosed capsule, with lots of silver switches and buttons to flick and press. 
 
+
+## Whoumping Willow
 Right after is the Whoumping Willow! which is not a big suprise. After all, Harry and Ron bump into it int the Flying Ford. The attraction is called the WWW: Wonderous Whomping Willow.
 
 This ride is very bumpy. Riders sit in big brown boxex hestled in the Whomping Willow's unwilling branches. His eyes glow yellow as it jolts you around. Don't mess with this guy, er, tree. 
