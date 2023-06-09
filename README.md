@@ -1,7 +1,7 @@
 # Potterworks in Progress
 Hello! I am ✨Victoria✨, and I love Harry Potter. I also love theme parks. You might think i love the original Harry Potter Theme Park, but I don't. It's  a bit boring.
 
-That's how I got the idea to start designing my own Harry Potter Theme Park, currently named [POTTERWORKS]! I also decided to start a website called [Potterworks in Progress](https://github.com/YHDING23/ThemePark) so Harry Potter fans (like me) can check out my planning and work. 
+That's how I got the idea to start designing my own Harry Potter Theme Park, currently named [POTTERWORKS] ! I also decided to start a website called [Potterworks in Progress](https://github.com/YHDING23/ThemePark) so Harry Potter fans (like me) can check out my planning and work. 
 
 Enough of the boring stuff. It's time to start! The first thing will be the basics of HP. Those include a Diagon Alley Shopping place, hogwarts Hopes (a Hogwarts ride tour through the yards), and the Hogwarts Express! These are things easily summarized in the first books's early chapters. The first is Diagon Alley. here's a quick sketch for you!
 
@@ -22,7 +22,7 @@ Now it is the last first-book thing: The Hogwarts Express
 
 One of the Diagon Alley stations is King's Cross, where you can pass through Platform 9 3/4 and jump onto a compartment in the Hogwarts Express. The train will take you 600 meters to the Hogwarts ride. Even if you don;t want to go on the Hogwarts Hopes ride, you will need to take the Hogwarts Express, because the whole other side of the theme park is there!
 
-<img src="./images/Hogwarts Express.jpeg" width="500px"></img>
+<img src="./images/Hogwarts Hopes.jpeg" width="500px"></img>
 
 
 
